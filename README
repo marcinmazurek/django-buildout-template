@@ -26,4 +26,4 @@ Let's rule:
  * git add .gitignore bootstrap.py buildout.cfg 
  * git commit -m '@init'
 
-test
+test2
